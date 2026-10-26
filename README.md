@@ -1,5 +1,7 @@
 # نصّ — Arabic YouTube audio transcription
 
+![Logo](nas-logo.png)
+
 Responsive Arabic RTL web workspace, self-hosted Tajawal typography, charcoal/green design. Replaces Frequency's podcast interface; previous podcast source is retained but no longer rendered.
 
 ## How to use
